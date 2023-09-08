@@ -1,1 +1,1 @@
-# ConsoleApp1444
+# Simple transposition cipher/decipher console application. First, User chooses between two options (cipher (c) or decipher (d)). Then program requests an order of numbers that defines the transposition order in a ciphering (or deciphering) algorithm. Then User specifies the path (preferably the full path) to a text file with the initial text. After that, User specifies the path to a file where the ciphered (or deciphered) text is saved.
